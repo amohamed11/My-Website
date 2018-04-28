@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    margin: 0;
+	background: #669999;
+}
+
+.container {
+	height: 95px;
+  	min-width:100%;
+	overflow: hidden;
+	text-align: left;
+	color: #333;
+	background: #f0f5f5;
+	position: absolute;
+	}
+
+.title {
+	font-family: Helcetica, Arial, Sans-serif;
+	font-size: 32px;
+	}
+
+.info{
+	font-size: 26px;
+	}
+
