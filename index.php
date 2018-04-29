@@ -15,8 +15,8 @@
         <!--- End of Container div-->
         <div class="inner-cover">
           <h1 class="cover-heading">About Me. </h1>
-          <p class="lead">I am currently a second year Computing Science student at University of Alberta.<br/> 
-            My interests include:</p>
+          <p class="lead">I am currently a second year Computing Science student at University of Alberta. <br/> Pursuing a job in Software Engineering is a dream of mine. My interests in Software involves different areas of Development.<br/> 
+            Those interests include:</p>
             <ul class="list">
               <li>Software Development</li>
               <li>Web-Design </li>
