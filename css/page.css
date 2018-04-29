@@ -1,25 +1,59 @@
 body, html {
     height: 100%;
     margin: 0;
-	background: #669999;
+	background: #19334d;
 }
 
-.container {
-	height: 95px;
-  	min-width:100%;
-	overflow: hidden;
-	text-align: left;
-	color: #333;
-	background: #f0f5f5;
-	position: absolute;
+.site-wrapper {
+	display: table;
+	width: 100%;
+	height: 100%; /* For at least Firefox */
+	min-height: 100%;
+	}
+.site-wrapper-inner {
+	display: table-cell;
+	}
+
+.head-container {
+	color: #ffffff;
+	background: #132639;
+	font-weight: normal;
+	}
+
+.page-header {
+	text-align: center;
+	font-weight: lighter;
 	}
 
 .title {
-	font-family: Helcetica, Arial, Sans-serif;
-	font-size: 32px;
+	font-size: 30px;
+	font-weight: lighter;
 	}
 
-.info{
-	font-size: 26px;
+.info {
+	font-size: 22px;
 	}
 
+.inner-cover {
+	padding: 0 1.5rem;
+    vertical-align: center;
+    position: absolute;
+	color: #f2f2f2;
+	}	
+
+.cover-heading {
+	font-size: 22px;
+	font-weight: lighter;
+	}
+
+.list {
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+.footer {
+	color: #f2f2f2;
+    position: fixed;
+    bottom: 0; 
+    width: 100%;
+	}
