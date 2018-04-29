@@ -9,13 +9,13 @@
         <div class="head-container">
           <div class="page-header">
             <h1 class="title">Anas Mohamed</h1>
-            <p class="info"> This is my personal website, dedicated to the one and only. Me!</p>
+            <p class="info"> This is my personal website, that I plan on using as a profile.</p>
           </div>
         </div>
         <!--- End of Container div-->
         <div class="inner-cover">
           <h1 class="cover-heading">About Me. </h1>
-          <p class="lead">I am currently a second year Computing Science student at University of Alberta. <br/> Pursuing a job in Software Engineering is a dream of mine. My interests in Software involves different areas of Development.<br/> 
+          <p class="lead">I am currently a second year Computing Science student at University of Alberta. <br/> Pursuing a job in Software Engineering is a dream of mine, as such my interests in Software involves many areas of Development.<br/> 
             Those interests include:</p>
             <ul class="list">
               <li>Software Development</li>
