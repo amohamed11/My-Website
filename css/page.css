@@ -1,59 +1,50 @@
 body, html {
     height: 100%;
     margin: 0;
-	background: #19334d;
-}
+	}
+
+body {
+	text-align: center;
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+	box-shadow: inset 0px 0px 40px #1a1a1a;
+    text-shadow: 0px 0px 0.1px;
+	}
 
 .site-wrapper {
-	display: table;
 	width: 100%;
-	height: 100%; /* For at least Firefox */
+	height: 100%;
 	min-height: 100%;
-	}
-.site-wrapper-inner {
-	display: table-cell;
-	}
-
-.head-container {
-	color: #ffffff;
-	background: #132639;
-	font-weight: normal;
-	}
-
-.page-header {
-	text-align: center;
-	font-weight: lighter;
-	}
-
-.title {
-	font-size: 30px;
-	font-weight: lighter;
-	}
-
-.info {
-	font-size: 22px;
 	}
 
 .inner-cover {
-	padding: 0 1.5rem;
-    vertical-align: center;
-    position: absolute;
-	color: #f2f2f2;
-	}	
+	font-weight: lighter;
+	font-color: #132639;
+	font-size: 20px;
+	}
+
+.image {
+	width: 160px;
+	height: 160px;
+	border-radius: 50%;
+	border: solid 3px #e6e6e6;
+	box-shadow: 0.1em 0.2em 1em rgba(0, 0, 0, 0.4);
+	align-self: center;
+	}
 
 .cover-heading {
-	font-size: 22px;
+	margin-top: 150px;
 	font-weight: lighter;
+	font-size: 38px
 	}
 
-.list {
-	font-size: 18px;
-	font-weight: lighter;
-}
+.lead {
+	margin: 150px auto;
+	font-size: 22px;	
+	}	
 
-.footer {
-	color: #f2f2f2;
+.mastfoot {
     position: fixed;
-    bottom: 0; 
-    width: 100%;
-	}
+    bottom: 1em;
+    left: 1em;
+  }

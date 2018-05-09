@@ -4,36 +4,40 @@
     <?php include('Meta_Links.html'); ?>
   </head>
   <body>
-    <div class="site-warapper">
-      <div class="site-warapper-inner">
-        <div class="head-container">
-          <div class="page-header">
-            <h1 class="title">Anas Mohamed</h1>
-            <p class="info"> This is my personal website, that I plan on using as a profile.</p>
+    <div class="site-wrapper">
+      <div class="site-wrapper-inner">
+        <div class="cover-container">
+          <div class="inner-cover">
+          	<img src="images/me.jpg" class="image">
+            <h class="cover-heading">Anas Mohamed</h>
+	        <p class="lead">
+	        	I am currently a second year Computing Science student at University of Alberta. <br
+	        	/> Pursuing a job in Software Engineering is a dream of mine.<br/>
+	        	I have great interest in different areas of Software Development. <br/>
+                Those interests include:<br/> 
+                Web Design/Development<br/> 
+                App &amp; Mobile Development <br/>
+                User Interface Design<br/> 
+            	I am also interested in Video Game Development, but mostly as a side interest.</p>
+          </div>
+
+          <div class="mastfoot">
+            <div class="inner">
+          		<a href="https://github.com/amohamed11"><i class="fa fa-github" style="font-size: 34px"></i> </a>
+            </div>
           </div>
         </div>
         <!--- End of Container div-->
-        <div class="inner-cover">
-          <h1 class="cover-heading">About Me. </h1>
-          <p class="lead">I am currently a second year Computing Science student at University of Alberta. <br/> Pursuing a job in Software Engineering is a dream of mine, as such my interests in Software involves many areas of Development.<br/> 
-            Those interests include:</p>
-            <ul class="list">
-              <li>Software Development</li>
-              <li>Web-Design </li>
-              <li>App Development (Android)</li>
-            </ul> 
-          <p2 class= "lead"> I am also interested in Video Game Development, but mostly as a side interest.</p2>
-        </div>
-        <!--- End of Inner-Cover div-->
-        <div class="footer">
-            <div class="inner">
-              <p>Feel free to contact me using my github: <a href="github.com/amohamed11">@amohamed11</a>.</p>
-            </div>
-        </div>
-        <!--- End of Footer div-->
-      </div>
-        <!--- End of Site-Wrapper-Inner div-->
-    </div>
+	  </div>
+      <!--- End of Site-Wrapper Inner div-->
+	</div>
+	<!--- End of Site-Wrapper div-->
 
   </body>
 </html>
+
+	        <<!-- ul id="#interests" style="list-style-type:none">
+	          <li>Software Development</li>
+	          <li>Web-Design </li>
+	          <li>App Development (Android)</li>
+	        </ul>  -->
