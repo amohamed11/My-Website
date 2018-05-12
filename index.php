@@ -2,23 +2,26 @@
 <html lang="en">
   <head>
     <?php include('Meta_Links.html'); ?>
+	<link rel="stylesheet" href="css/home.css">
   </head>
   <body>
     <div class="site-wrapper">
+      <?php include('navbar.html'); ?>	
+      <div class="shadow"></div>
       <div class="site-wrapper-inner">
         <div class="cover-container">
           <div class="inner-cover">
-          	<img src="images/me.jpg" class="image">
+          	<img src="images/me.jpg" class="image"> <!-- Some copy-right free background iamge -->
             <h class="cover-heading">Anas Mohamed</h>
 	        <p class="lead">
-	        	I am currently a second year Computing Science student at University of Alberta. <br
-	        	/> Pursuing a job in Software Engineering is a dream of mine.<br/>
-	        	I have great interest in different areas of Software Development. <br/>
-                Those interests include:<br/> 
+	        	I am a student at University of Alberta majoring in Computing Science. <br
+	        	/>This website is made to share my passion for Software &amp; Technology.<br/>
+	        	I also have great interest in Software Engineering. <br/>
+                Those interests are varied and include:<br/> 
                 Web Design/Development<br/> 
                 App &amp; Mobile Development <br/>
-                User Interface Design<br/> 
-            	I am also interested in Video Game Development, but mostly as a side interest.</p>
+                User Interface Design<br/>
+            	Feel free to contact me about anything.</p>
           </div>
 
           <div class="mastfoot">
@@ -35,9 +38,3 @@
 
   </body>
 </html>
-
-	        <<!-- ul id="#interests" style="list-style-type:none">
-	          <li>Software Development</li>
-	          <li>Web-Design </li>
-	          <li>App Development (Android)</li>
-	        </ul>  -->

@@ -1,0 +1,22 @@
+.justify-content-start {
+	position: fixed;
+	top: 5px;
+	left: 50px; 
+}
+
+.nav-item {
+	z-index: 1;
+	}
+
+a.nav-link:link {
+	color: #0066cc;
+	text-decoration:none; 
+	font-weight:normal;
+}
+
+a.nav-link:hover {
+	color: #cce6ff;
+	text-decoration:none; 
+	font-weight:normal;
+}
+
