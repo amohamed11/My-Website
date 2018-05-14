@@ -31,8 +31,8 @@ body {
 	}
 
 .image {
-	width: 160px;
-	height: 160px;
+	width: 140px;
+	height: 140px;
 	border-radius: 50%;
 	border: solid 3px #e6e6e6;
 	box-shadow: 0.1em 0.2em 1em rgba(0, 0, 0, 0.4);
@@ -45,7 +45,7 @@ body {
 	}
 
 .lead {
-	margin: 25px auto;
+	margin: 4px;
 	font-size: 22px;	
 	}	
 

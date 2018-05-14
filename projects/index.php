@@ -2,14 +2,20 @@
 <html lang="en">
   <head>
     <?php include('../Meta_Links.html'); ?>
-	<link rel="stylesheet" href="../css/projects.css">
+	<link rel="stylesheet" href="css/projects.css">
   </head>
   <body>
       <?php include('../navbar.html'); ?>	
-
-      <div class="container">
-      	<h> "Coming Soon" </h>
+      <div class="site-wrapper">
+        <div class="shadow"></div>
+        <div class="site-wrapper-inner">
+      	    <h> "Coming Soon" </h>
+      	</div>
+        <div class="mastfoot">
+          <div class="inner">
+          	 <a href="https://github.com/amohamed11"><i class="fa fa-github" style="font-size: 36px"></i> </a>
+          </div>
+        </div>
       </div>
-
   </body>
 </html>

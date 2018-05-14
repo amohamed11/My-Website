@@ -26,7 +26,7 @@
 
           <div class="mastfoot">
             <div class="inner">
-          		<a href="https://github.com/amohamed11"><i class="fa fa-github" style="font-size: 34px"></i> </a>
+          		<a href="https://github.com/amohamed11"><i class="fa fa-github" style="font-size: 36px"></i> </a>
             </div>
           </div>
         </div>
