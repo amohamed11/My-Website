@@ -1,11 +1,11 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <?php include('../Meta_Links.html'); ?>
+    <?php include('../includes/Meta_Links.html'); ?>
 	<link rel="stylesheet" href="css/projects.css">
   </head>
   <body>
-      <?php include('../navbar.html'); ?>	
+      <?php include('../includes/navbar.html'); ?>	
       <div class="site-wrapper">
         <div class="shadow"></div>
         <div class="site-wrapper-inner">
