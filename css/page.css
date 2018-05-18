@@ -81,11 +81,8 @@ a.nav-link:hover {
 	margin-right: 14px;
 }
 
-@media (max-width: 1200px) {
-	body {
-		background-image: url(../images/background-mobile.jpg);
-	}
 
+@media (max-width: 768px){
 	.justify-content-start {
 		left: 2%;
 	}
@@ -93,4 +90,4 @@ a.nav-link:hover {
 	.justify-content-center{
 		margin-left: 10%;
 	}
-} 
+}
